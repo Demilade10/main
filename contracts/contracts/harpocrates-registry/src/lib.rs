@@ -3254,4 +3254,6 @@ pub mod test_timelock;
 #[cfg(test)]
 mod test_schema;
 #[cfg(test)]
+mod test_storage_migration;
+#[cfg(test)]
 mod test_selective_disclosure;
